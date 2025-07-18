@@ -105,4 +105,6 @@ To access darknet markets, use their official onion URLs. Always ensure you’re
 The darknet landscape is always changing. To stay safe, always practice good security habits. Always verify your URLs, utilize encryption, and be aware of scams to navigate these markets.
 Plase contribute and add stars to this repo.
 
-Update: Email links
+
+
+Update:  18.07.2025 15:07

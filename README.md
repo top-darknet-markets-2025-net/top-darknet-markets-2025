@@ -107,4 +107,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  18.07.2025 15:07
+
+
+Update:  21.07.2025 22:06 Repaired dead links in configuration examples
